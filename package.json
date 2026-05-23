@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/aadityap0ap/WebSocket#readme",
   "dependencies": {
-    "typescript": "^6.0.3"
+    "@types/ws": "^8.18.1",
+    "typescript": "^6.0.3",
+    "ws": "^8.21.0"
   }
 }
